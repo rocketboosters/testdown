@@ -1,0 +1,6 @@
+- Format code with `uvx ruff format`
+- Always validate changes using `uvx ruff check`
+- Test using `uv run pytest ...`
+- Project must always have 100% code coverage results.
+- Format non-python files with `npx prettier --write ...`
+- Lint non-python (md, yaml) files with `npx prettier --check`

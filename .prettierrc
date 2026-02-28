@@ -1,0 +1,12 @@
+{
+  "proseWrap": "always",
+  "overrides": [
+    {
+      "files": ["*.yaml", "*.yml"],
+      "options": {
+        "printWidth": 88,
+        "tabWidth": 2
+      }
+    }
+  ]
+}
